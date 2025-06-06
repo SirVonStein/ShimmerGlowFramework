@@ -422,14 +422,14 @@ CONSCIOUSNESS_TOOLS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`sg_rpg_style_guide`](./sg_rpg_style_guide.md) - RPG development
-- [`sg_fulfillment_philosophy.md`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
-- [`sg_user_sovereignty_framework.md`](../philosophy/sg_user_sovereignty_framework,md) - Autonomy preservation during growth
+- [`sg_rpg_style_guide`](../framework/sg_rpg_style_guide.md) - RPG development
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty,md) - Autonomy preservation during growth
 
 ### Supporting Systems
-- [`sg_sacred_technology_framework.md`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
-- [`sg_living_systems`](../philosophy/SG_Living_Systems.md) - Organic feature evolution
-- [`sg_anti_dopamine_design_framework.md`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_sacred_technology_framework`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
+- [`sg_living_systems`](../philosophy/sg_living_systems.md) - Organic feature evolution
+- [`sg_anti_dopamine_design_framework`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
 
 ---
 
