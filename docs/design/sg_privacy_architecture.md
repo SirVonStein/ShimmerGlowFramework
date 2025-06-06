@@ -490,28 +490,18 @@ PRIVACY_ACHIEVEMENTS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Privacy as foundational non-negotiable principle
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Data sovereignty and user autonomy
-- [`SG_Sacred_Technology.md`](./SG_Sacred_Technology.md) - Privacy as sacred practice
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Privacy as pathway to authentic fulfillment
+- [`sg_user_sovereignty_framework`](../philosophy/sg_user_sovereignty_framework,md) - Autonomy preservation during growth
+- [`sg_sacred_technology_framework`](../philosophy/sg_sacred_technology_framework.md) - Technology development philosophy
+- [`sg_fulfillment_philosoph`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
 
 ### Technical Integration
-- [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - System-wide privacy integration
-- [`SG_Unified_Tracking_System.md`](./SG_Unified_Tracking_System.md) - Privacy-first data collection architecture
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI privacy protocols and boundaries
-- [`SG_Performance_Metrics.md`](./SG_Performance_Metrics.md) - Privacy-preserving analytics
-
-### Feature Dependencies
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - End-to-end encryption for social features
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Privacy rewards integration
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Private ritual data storage
-- [`SG_Resonance_Consent_Ethics.md`](./SG_Resonance_Consent_Ethics.md) - Living consent model
-
+- [`sg_features_compendium`](../framework/sg_features_compendium) - Technical development roadmap
+- 
 ### Supporting Frameworks
-- [`SG_Choice_Architecture.md`](./SG_Choice_Architecture.md) - Privacy choice design patterns
-- [`SG_Accessibility_Standards.md`](./SG_Accessibility_Standards.md) - Inclusive privacy interface design
-- [`SG_Living_Systems.md`](./SG_Living_Systems.md) - Organic privacy evolution
-- [`SG_Narrative_Engine.md`](./SG_Narrative_Engine.md) - Privacy as heroic journey element
+- [`sg_accessibility_Standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
+
+- [`sg_living_systems`](../philosophy/sg_living_systems.md) - Organic privacy evolution
+- [`sg_narrative_engine`](../framework/sg_narrative_engine.md) - Privacy as heroic journey element
 
 ---
 
