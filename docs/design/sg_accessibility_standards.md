@@ -223,10 +223,9 @@ ShimmerGlow's accessibility framework transforms traditional compliance-based ac
 ## Cross-References
 
 ### Core Accessibility Documents
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Sovereignty-first approach applied to accessibility
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Self-determination in accessibility needs
-- [`SG_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional state tracking for accessibility adaptation
-- [`SG_Anti_Dopamine_Design_Framework.md`](./SG_Anti_Dopamine_Design_Framework.md) - Ethical design protecting vulnerable users
+- [`SG_Fulfillment_Philosophy.md`](docs/philosophy/sg_fulfillment_philosophy) - Sovereignty-first approach applied to accessibility
+- [`SG_User_Sovereignty_Framework.md`](docs/philosophy/sg_user_sovereignty.md) - Self-determination in accessibility needs
+- [`SG_Anti_Dopamine_Design_Framework.md`](docs/philosophy/sg_creative_dopamine_guide.md) - Ethical design protecting vulnerable users
 
 ### Supporting Frameworks
 - [`SG_Sacred_Technology_Framework.md`](./SG_Sacred_Technology_Framework.md) - Sacred tech accessible to all bodies
