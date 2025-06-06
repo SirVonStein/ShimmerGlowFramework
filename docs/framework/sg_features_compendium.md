@@ -422,28 +422,14 @@ CONSCIOUSNESS_TOOLS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Foundational feature philosophy and anti-dopamine principles
-- [`SG_RPG_Style_Guide.md`](./SG_RPG_Style_Guide.md) - Feature naming and presentation language
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Features serving authentic growth
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Feature control and customization
-
-### Implementation Systems
-- [`SG_Unified_Tracking_System.md`](./SG_Unified_Tracking_System.md) - Data infrastructure for all features
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI integration across features
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Currency and unlock mechanics
-- [`SG_Performance_Metrics.md`](./SG_Performance_Metrics.md) - Feature effectiveness measurement
-
-### Specific Feature Documentation
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion system details
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Sacred practice implementation
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Community feature architecture
-- [`SG_Cathedral_Thread_Framework.md`](./SG_Cathedral_Thread_Framework.md) - Consciousness mapping tools
+- [`sg_rpg_style_guide`](./sg_rpg_style_guide.md) - RPG development
+- [`sg_fulfillment_philosophy.md`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_user_sovereignty_framework.md`](../philosophy/sg_user_sovereignty_framework,md) - Autonomy preservation during growth
 
 ### Supporting Systems
-- [`SG_Sacred_Technology.md`](./SG_Sacred_Technology.md) - Ceremonial feature presentation
-- [`SG_Living_Systems.md`](./SG_Living_Systems.md) - Organic feature evolution
-- [`SG_Creative_Dopamine_Design_Guide.md`](./SG_Creative_Dopamine_Design_Guide.md) - Healthy engagement patterns
-- [`SG_Visual_Language_Achievement_System.md`](./SG_Visual_Language_Achievement_System.md) - Feature celebration
+- [`sg_sacred_technology_framework.md`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
+- [`sg_living_systems`](../philosophy/SG_Living_Systems.md) - Organic feature evolution
+- [`sg_anti_dopamine_design_framework.md`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
 
 ---
 
