@@ -333,27 +333,19 @@ STATUS_MESSAGES = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Foundational RPG transformation philosophy
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Player-as-protagonist paradigm
-- [`SG_Sacred_Technology.md`](./SG_Sacred_Technology.md) - Sacred language integration
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Agency-centered language
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
 
 ### System Integration
-- [`SG_Fulfillment_XP_System.md`](./SG_Fulfillment_XP_System.md) - Ux terminology and progression language
-- [`SG_Visual_Language_Achievement_System.md`](./SG_Visual_Language_Achievement_System.md) - Visual RPG elements
-- [`SG_Master_Glossary.md`](./SG_Master_Glossary.md) - Complete terminology database
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Currency and progression terms
+- [`sg_master_glossary`](../reference/sg_master_glossary.md) - Complete terminology database
 
 ### Feature Implementation
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion terminology
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Spell and ritual language
-- [`SG_Avatar_Evolution_System.md`](./SG_Avatar_Evolution_System.md) - Character visualization language
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Party and guild terminology
+- [`sg_features_compendium`](./sg_features_compendium.md) - Technical development roadmap
 
 ### Writing Guidelines
-- [`SG_Creative_Dopamine_Design_Guide.md`](./SG_Creative_Dopamine_Design_Guide.md) - Language constraints
-- [`SG_Resonance_Onboarding_Translation.md`](./SG_Resonance_Onboarding_Translation.md) - First contact language
-- [`SG_Narrative_Engine.md`](./SG_Narrative_Engine.md) - Story generation language
+- [`sg_anti_dopamine_design`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_narrative_engine`](./sg_narrative_engine.md) - Story generation language
 
 ---
 
