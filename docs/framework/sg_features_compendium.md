@@ -424,7 +424,7 @@ CONSCIOUSNESS_TOOLS = {
 ### Core Philosophy Documents
 - [`sg_rpg_style_guide`](../framework/sg_rpg_style_guide.md) - RPG development
 - [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
-- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty,md) - Autonomy preservation during growth
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
 
 ### Supporting Systems
 - [`sg_sacred_technology_framework`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
