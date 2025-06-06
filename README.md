@@ -17,7 +17,7 @@ A consciousness technology framework for authentic human fulfillment in the age 
 
 🌟 [Discord Community](coming-soon)
 📖 [Read the Manifesto](docs/sg_manifesto.md)
-🔮 [The Vision](docs/sg_action_plan.md)
+🔮 [The Vision](docs/reference/sg_action_plan.md)
 
 ## Open Source Philosophy
 
