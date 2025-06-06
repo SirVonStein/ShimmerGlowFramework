@@ -491,14 +491,14 @@ PRIVACY_ACHIEVEMENTS = {
 
 ### Core Philosophy Documents
 - [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
-- [`sg_sacred_technology_framework`](../philosophy/sg_sacred_technology_framework.md) - Technology development philosophy
-- [`sg_fulfillment_philosoph`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
 
 ### Technical Integration
 - [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
 - 
 ### Supporting Frameworks
-- [`sg_accessibility_Standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
+- [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
 - [`sg_living_systems`](../philosophy/sg_living_systems.md) - Organic privacy evolution
 - [`sg_narrative_engine`](../framework/sg_narrative_engine.md) - Privacy as heroic journey element
