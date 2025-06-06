@@ -215,10 +215,10 @@ The ShimmerGlow Action Plan establishes the strategic implementation roadmap for
 ## Cross-References
 
 ### Strategic Foundation Documents
-- [`sg_fulfillment_philosophy.md`](./sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
-- [`sg_user_sovereignty_framework.md`](./sg_User_Sovereignty_Framework.md) - Autonomy preservation during growth
-- [`sg_snti_dopamine_design_framework.md`](./sg_creative_dopamine_guide.md) - Ethical growth principles
-- [`sg_sacred_technology_framework.md`](./sg_sacred_technology_framework.md) - Technology development philosophy
+- [`sg_fulfillment_philosophy.md`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_user_sovereignty_framework.md`](../philosophy/sg_user_sovereignty_framework.md) - Autonomy preservation during growth
+- [`sg_snti_dopamine_design_framework.md`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_sacred_technology_framework.md`](../philosophy/sg_sacred_technology_framework.md) - Technology development philosophy
 
 ### Implementation System Documents
 - [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - Technical development roadmap
