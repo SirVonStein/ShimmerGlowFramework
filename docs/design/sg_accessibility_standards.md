@@ -228,11 +228,11 @@ ShimmerGlow's accessibility framework transforms traditional compliance-based ac
 - [`sg_creative_dopamine_guide`](../philosophy/sg_creative_dopamine_guide.md) - Ethical design protecting vulnerable users
 
 ### Supporting Frameworks
-- [`sg_sacred_technology_framework.md`](../philosophy/sg_sacred_technology_framework.md) - Sacred tech accessible to all bodies
+- [`sg_sacred_technology_framework`](../philosophy/sg_sacred_technology_framework.md) - Sacred tech accessible to all bodies
 
 ### Implementation Systems
-- [`sg_features_compendium.md`](../framework/sg_features_compendium) - Technical development roadmap
-- [`sg_privacy_architecture.md`](../framework/sg_privacy_architecture.md) - Accessibility preference privacy protection
+- [`sg_features_compendium`](../framework/sg_features_compendium) - Technical development roadmap
+- [`sg_privacy_architecture`](../framework/sg_privacy_architecture.md) - Accessibility preference privacy protection
 
 ---
 
