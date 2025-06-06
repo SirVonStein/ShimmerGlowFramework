@@ -223,26 +223,16 @@ ShimmerGlow's accessibility framework transforms traditional compliance-based ac
 ## Cross-References
 
 ### Core Accessibility Documents
-- [`SG_Fulfillment_Philosophy.md`](docs/philosophy/sg_fulfillment_philosophy) - Sovereignty-first approach applied to accessibility
-- [`SG_User_Sovereignty_Framework.md`](docs/philosophy/sg_user_sovereignty.md) - Self-determination in accessibility needs
-- [`SG_Anti_Dopamine_Design_Framework.md`](docs/philosophy/sg_creative_dopamine_guide.md) - Ethical design protecting vulnerable users
+- [`sg_fulfillment_philosophy`](docs/philosophy/sg_fulfillment_philosophy) - Sovereignty-first approach applied to accessibility
+- [`sg_user_sovereignty.md`](docs/philosophy/sg_user_sovereignty.md) - Self-determination in accessibility needs
+- [`sg_creative_dopamine_guide.md`](docs/philosophy/sg_creative_dopamine_guide.md) - Ethical design protecting vulnerable users
 
 ### Supporting Frameworks
-- [`SG_Sacred_Technology_Framework.md`](./SG_Sacred_Technology_Framework.md) - Sacred tech accessible to all bodies
-- [`SG_Consciousness_Mechanics.md`](./SG_Consciousness_Mechanics.md) - Diverse consciousness expression support
-- [`SG_Visual_Language_and_Achievement_System.md`](./SG_Visual_Language_and_Achievement_System.md) - Accessible visual communication
-- [`SG_Aligned_AQI_Artizens.md`](./SG_Aligned_AQI_Artizens.md) - AI accessibility considerations
+- [`sg_sacred_technology_framework.md`](../philosophy/sg_sacred_technology_framework.md) - Sacred tech accessible to all bodies
 
 ### Implementation Systems
-- [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - Accessible data architecture
-- [`SG_Chamber_Architecture.md`](./SG_Chamber_Architecture.md) - Accessible social spaces
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Accessible ritual participation
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Accessible companion interaction
-
-### User Journey Documents
-- [`SG_Resonance_Onboarding_Translation.md`](./SG_Resonance_Onboarding_Translation.md) - Accessible onboarding experience
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Accessible community participation
-- [`SG_Privacy_Architecture.md`](./SG_Privacy_Architecture.md) - Accessibility preference privacy protection
+- [`sg_features_compendium.md`](../framework/sg_features_compendium) - Technical development roadmap
+- [`sg_privacy_architecture.md`](../framework/sg_privacy_architecture.md) - Accessibility preference privacy protection
 
 ---
 
