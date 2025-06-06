@@ -490,7 +490,7 @@ PRIVACY_ACHIEVEMENTS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`sg_user_sovereignty_framework`](../philosophy/sg_user_sovereignty_framework.md) - Autonomy preservation during growth
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
 - [`sg_sacred_technology_framework`](../philosophy/sg_sacred_technology_framework.md) - Technology development philosophy
 - [`sg_fulfillment_philosoph`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
 
