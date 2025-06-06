@@ -226,8 +226,7 @@ The ShimmerGlow Action Plan establishes the strategic implementation roadmap for
 - [`sg_learn_ShimmerGlow.md`](./sg_learn_shimmerglow.md) - New member education and integration
 
 ### Technical Development References
-- [`sg_echoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion development roadmap
-- [`sg_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional tracking implementation
+- [`sg_rpg_style_guide.md`](../framework/sg_rpg_style_guide.md) - RPG development
 - [`sg_uI_Principles.md`](../design/sg_ui_principles.md) - Interface design development guidelines
 - [`sg_accessibility_Standards.md`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
