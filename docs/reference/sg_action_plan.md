@@ -222,7 +222,7 @@ The ShimmerGlow Action Plan establishes the strategic implementation roadmap for
 
 ### Implementation System Documents
 - [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
-- [`sg_privacy_architecture`](../framework/sg_privacy_architecture.md) - User data sovereignty protection
+- [`sg_privacy_architecture`](./sg_privacy_architecture.md) - Accessibility preference privacy protection
 - [`sg_learn_ShimmerGlow`](./sg_learn_shimmerglow.md) - New member education and integration
 
 ### Technical Development References
