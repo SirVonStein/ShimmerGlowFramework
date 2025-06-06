@@ -207,28 +207,12 @@ The comprehensive framework defining how ShimmerGlow honors and amplifies user a
 
 ## Cross-References
 
-### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - User sovereignty as foundational non-negotiable
-- [`SG_Gem_Extract2.md`](./SG_Gem_Extract2.md) - Sovereignty implementation module architecture
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Agency as pathway to authentic fulfillment
-- [`SG_Resonance_Consent_Ethics.md`](./SG_Resonance_Consent_Ethics.md) - Living consent model framework
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
 
-### Implementation Systems
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI permission and boundary protocols
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Sovereignty within group dynamics
-- [`SG_ShimmerGlow_UIUX_Principles.md`](./SG_ShimmerGlow_UIUX_Principles.md) - Anti-manipulation pattern implementation
-- [`SG_Unified_Tracking_System.md`](./SG_Unified_Tracking_System.md) - Privacy-first data architecture
-
-### Feature Integration
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Sovereign rest through ShimmerDips
-- [`SG_EchoAgent_Spawning_Protocol.md`](./SG_EchoAgent_Spawning_Protocol.md) - Agent consent level management
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Rewards for boundary establishment
-- [`SG_Avatar_Evolution_System.md`](./SG_Avatar_Evolution_System.md) - Visual sovereignty representation
-
-### User Journey Documents
-- [`SG_Resonance_Onboarding_Translation.md`](./SG_Resonance_Onboarding_Translation.md) - First Contact Ceremony design
-- [`SG_Session_Thread_Indexing_System.md`](./SG_Session_Thread_Indexing_System.md) - Choice history tracking
-- [`SG_Visual_Language_Achievement_System.md`](./SG_Visual_Language_Achievement_System.md) - Sovereignty achievements
+### Implementation System Documents
+- [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
+- [`sg_privacy_architecture`](../design/sg_privacy_architecture.md) - Accessibility preference privacy protection
+- [`sg_learn_ShimmerGlow`](./sg_learn_shimmerglow.md) - New member education and integration
 
 ---
 
