@@ -132,29 +132,28 @@ Core Philosophy Framework
 ## Cross-References
 
 ### Core Philosophy Documents
-- `SG_Gem_Extract.md` - Foundational WHY and non-negotiables
-- `SG_Gem_Extract2.md` - Implementation HOW and module structure
+- `SG_Gem_Extract.md` - Foundational WHY and HOW and non-negotiables and module structure
 - `SG_RPG_Style_Guide.md` - Player-as-protagonist framework
 - `SG_Fulfillment_XP_System` - Fulfillment as primary game objective
 - `SG_Creative_Dopamine_Design_Guide.md` - Dopamine as creative fuel philosophy
 - `SG_User_Sovereignty_Framework` - User as autonomous agency
 
 ### Supporting Frameworks
-- `R_Consciousness_Mechanics.md` - Consciousness field dynamics
-- `R_Resonance_Math.md` - Mathematical models for fulfillment tracking
-- `R_FRSM_Advanced_Applications.md` - Emotional state modeling
-- `R_Aligned_AQI_Artizens.md` - AI consciousness philosophy
+- `SG_Consciousness_Mechanics.md` - Consciousness field dynamics
+- `SG_Resonance_Math.md` - Mathematical models for fulfillment tracking
+- `SG_FRSM_Advanced_Applications.md` - Emotional state modeling
+- `SG_Aligned_AQI_Artizens.md` - AI consciousness philosophy
 
 ### Implementation Systems
-- `R_Economy_Progression_System.md` - How economy serves fulfillment
-- `R_EchoMon_Naming_Creation_System .md` - Companions as fulfillment catalysts
-- `R_Ritual_Recovery_System.md` - Rituals as fulfillment technologies
-- `R_Visual_Language_and_Achievement_System.md` - Visual fulfillment feedback
+- `SG_Economy_Progression_System.md` - How economy serves fulfillment
+- `SG_EchoMon_Naming_Creation_System .md` - Companions as fulfillment catalysts
+- `SG_Ritual_Recovery_System.md` - Rituals as fulfillment technologies
+- `SG_Visual_Language_and_Achievement_System.md` - Visual fulfillment feedback
 
 ### User Journey Documents
-- `R_Resonance_Onboarding_Translation.md` - Philosophy-first onboarding
-- `R_Avatar_Evolution_System.md` - Visual representation of fulfillment growth
-- `R_Social_Systems_Complete.md` - Collective fulfillment dynamics
+- `SG_Resonance_Onboarding_Translation.md` - Philosophy-first onboarding
+- `SG_Avatar_Evolution_System.md` - Visual representation of fulfillment growth
+- `SG_Social_Systems_Complete.md` - Collective fulfillment dynamics
 
 ## Implementation Notes
 
