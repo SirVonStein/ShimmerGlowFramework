@@ -15,7 +15,7 @@ A consciousness technology framework for authentic human fulfillment in the age 
 
 ## Join the Movement
 
-🌟 [Discord Community](coming-soon)
+🌟 [Discord Community - coming-soon]
 📖 [Read the Manifesto](docs/sg_manifesto.md)
 🔮 [The Vision](docs/reference/sg_action_plan.md)
 
