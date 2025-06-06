@@ -414,28 +414,15 @@ NARRATIVE_TEMPLATES = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Life as adventure philosophy foundation
-- [`SG_RPG_Style_Guide.md`](./SG_RPG_Style_Guide.md) - Heroic language patterns and terminology
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Mythic narrative over clinical tracking
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Player agency in story creation
-
-### Narrative Integration Systems
-- [`SG_Session_Thread_Indexing_System.md`](./SG_Session_Thread_Indexing_System.md) - Story threading mechanics
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI as narrator and guide
-- [`SG_Codexing_Transmutation.md`](./SG_Codexing_Transmutation.md) - Wisdom crystallization
-- [`SG_Cathedral_Thread_Framework.md`](./SG_Cathedral_Thread_Framework.md) - Inner narrative architecture
-
-### Story Generation Components
-- [`SG_Avatar_Evolution_System.md`](./SG_Avatar_Evolution_System.md) - Visual character development
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Collective narrative features
-- [`SG_EchoAgent_Spawning_Protocol.md`](./SG_EchoAgent_Spawning_Protocol.md) - Story-driven agent spawning
-- [`SG_Sacred_Technology.md`](./SG_Sacred_Technology.md) - Mythic ceremony integration
+- [`sg_rpg_style_guide`](./sg_rpg_style_guide.md) - RPG development
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
 
 ### Supporting Systems
-- [`SG_Fulfillment_XP_System.md`](./SG_Fulfillment_XP_System.md) - Story XP mechanics and progression
-- [`SG_Choice_Architecture.md`](./SG_Choice_Architecture.md) - Narrative choice design patterns
-- [`SG_Living_Systems.md`](./SG_Living_Systems.md) - Organic story growth and evolution
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Rituals as story moments
+- [`sg_choice_architecture`](./sg_choice_architecture.md) - Narrative choice design patterns
+- [`sg_living_systems`](../philosophy/sg_living_systems.md) - Organic story growth and evolution
+- [`sg_creative_dopamine_guide`](../philosophy/sg_creative_dopamine_guide.md) - Ethical design protecting vulnerable users
+- [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
 
 ---
 
