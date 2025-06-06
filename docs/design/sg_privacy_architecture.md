@@ -496,7 +496,7 @@ PRIVACY_ACHIEVEMENTS = {
 
 ### Technical Integration
 - [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
-- 
+
 ### Supporting Frameworks
 - [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
