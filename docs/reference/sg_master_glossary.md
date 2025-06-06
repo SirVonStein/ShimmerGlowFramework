@@ -224,27 +224,20 @@ The ShimmerGlow Master Glossary serves as the authoritative lexicon for all term
 ## Cross-References
 
 ### Core Definition Sources
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Foundational philosophical framework definitions
-- [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - Technical system terminology specifications
-- [`SG_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional tracking system definitions
-- [`SG_Aligned_AQI_Artizens.md`](./SG_Aligned_AQI_Artizens.md) - AI consciousness terminology
-
-### Implementation Frameworks
-- [`SG_Anti_Dopamine_Design_Framework.md`](./SG_Anti_Dopamine_Design_Framework.md) - Ethical design terminology
-- [`SG_Sacred_Technology_Framework.md`](./SG_Sacred_Technology_Framework.md) - Sacred interface definitions
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Autonomy and agency terminology
-- [`SG_Accessibility_Standards.md`](./SG_Accessibility_Standards.md) - Inclusive design language
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
+- [`sg_anti_dopamine_design`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
+- [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
+- [`sg_learn_ShimmerGlow`](./sg_learn_shimmerglow.md) - New member education and integration
 
 ### System Integration Documents
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion system terminology
-- [`SG_Chamber_Architecture.md`](./SG_Chamber_Architecture.md) - Social system definitions
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Ceremonial framework terms
-- [`SG_Visual_Language_and_Achievement_System.md`](./SG_Visual_Language_and_Achievement_System.md) - Interface symbolism definitions
+- [`sg_rpg_style_guide`](../framework/sg_rpg_style_guide.md) - RPG development
+- [`sg_ui_principles`](../design/sg_ui_principles.md) - Interface design development guidelines
 
 ### Community and Culture Documents
-- [`SG_Resonance_Consent_and_Echo_Engagement_Ethic.md`](./SG_Resonance_Consent_and_Echo_Engagement_Ethic.md) - Ethical engagement terminology
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Community interaction definitions
-- [`SG_Privacy_Architecture.md`](./SG_Privacy_Architecture.md) - Data sovereignty terminology
+- [`sg_privacy_architecture`](../design/sg_privacy_architecture.md) - Accessibility preference privacy protection
+
 
 ---
 
