@@ -228,7 +228,7 @@ The ShimmerGlow Action Plan establishes the strategic implementation roadmap for
 ### Technical Development References
 - [`sg_rpg_style_guide`](../framework/sg_rpg_style_guide.md) - RPG development
 - [`sg_ui_Principles`](../design/sg_ui_principles.md) - Interface design development guidelines
-- [`sg_accessibility_Standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
+- [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
 ---
 
