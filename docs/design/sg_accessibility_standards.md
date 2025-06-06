@@ -232,7 +232,7 @@ ShimmerGlow's accessibility framework transforms traditional compliance-based ac
 
 ### Implementation Systems
 - [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
-- [`sg_privacy_architecture`](../framework/sg_privacy_architecture.md) - Accessibility preference privacy protection
+- [`sg_privacy_architecture`](./framework/sg_privacy_architecture.md) - Accessibility preference privacy protection
 
 ---
 
