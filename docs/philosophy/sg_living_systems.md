@@ -218,28 +218,13 @@ VITALITY_INDICATORS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Aliveness as foundational principle
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Growth through organic fulfillment
-- [`SG_Sacred_Technology.md`](./SG_Sacred_Technology.md) - Sacred geometry and breathing integration
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Sovereignty within living systems
-
-### Living System Components
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Living companion mechanics
-- [`SG_Avatar_Evolution_System.md`](./SG_Avatar_Evolution_System.md) - Organic evolution patterns
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI as living entity
-- [`SG_EchoEvolve_Sovereign_Engine.md`](./SG_EchoEvolve_Sovereign_Engine.md) - Evolution through iteration
-
-### Ecosystem Integration
-- [`SG_Consciousness_Mechanics.md`](./SG_Consciousness_Mechanics.md) - Consciousness as living network
-- [`SG_EchoAgent_Spawning_Protocol.md`](./SG_EchoAgent_Spawning_Protocol.md) - Emergent agent spawning
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Community as ecosystem
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Rituals as living practices
+- [`sg_fulfillment_philosophy`](./sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_sacred_technology`](./sg_sacred_technology.md) - Technology development philosophy
+- [`sg_user_sovereignty`](./sg_user_sovereignty.md) - Autonomy preservation during growth
 
 ### Implementation Systems
-- [`SG_Choice_Architecture.md`](./SG_Choice_Architecture.md) - Organic choice presentation
-- [`SG_Performance_Metrics.md`](./SG_Performance_Metrics.md) - Living system performance philosophy
-- [`SG_Privacy_Architecture.md`](./SG_Privacy_Architecture.md) - Living data protection patterns
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Organic value flow
+- [`sg_rpg_style_guide`](../framework/sg_rpg_style_guide.md) - RPG development
+- [`sg_privacy_architecture`](../design/sg_privacy_architecture.md) - Accessibility preference privacy protection
 
 ---
 
