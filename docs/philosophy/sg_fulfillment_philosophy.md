@@ -183,28 +183,12 @@ The foundational philosophical framework that transforms digital wellness from p
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Foundational framework and non-negotiables
-- [`SG_RPG_Style_Guide.md`](./SG_RPG_Style_Guide.md) - Player-as-protagonist framework
-- [`SG_Fulfillment_XP_System.md`](./SG_Fulfillment_XP_System.md) - Fulfillment as primary game objective
-- [`SG_Creative_Dopamine_Design_Guide.md`](./SG_Creative_Dopamine_Design_Guide.md) - Dopamine as creative fuel
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - User as autonomous agency
-
-### Supporting Frameworks
-- [`SG_Consciousness_Mechanics.md`](./SG_Consciousness_Mechanics.md) - Consciousness field dynamics
-- [`SG_Resonance_Math.md`](./SG_Resonance_Math.md) - Mathematical models for fulfillment
-- [`SG_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional state modeling
-- [`SG_Aligned_AQI_Artizens.md`](./SG_Aligned_AQI_Artizens.md) - AI consciousness philosophy
+- [`sg_rpg_style_guide`](../framework/sg_rpg_style_guide.md) - RPG development
+- [`sg_anti_dopamine_design`](./sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_user_sovereignty`](./sg_user_sovereignty.md) - Autonomy preservation during growth
 
 ### Implementation Systems
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Economy serves fulfillment
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companions as catalysts
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Rituals as fulfillment tech
-- [`SG_Visual_Language_and_Achievement_System.md`](./SG_Visual_Language_and_Achievement_System.md) - Visual feedback
-
-### User Journey Documents
-- [`SG_Resonance_Onboarding_Translation.md`](./SG_Resonance_Onboarding_Translation.md) - Philosophy-first onboarding
-- [`SG_Avatar_Evolution_System.md`](./SG_Avatar_Evolution_System.md) - Visual fulfillment growth
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Collective fulfillment dynamics
+- [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
 
 ---
 
