@@ -223,27 +223,16 @@ ShimmerGlow's UI principles transform digital interfaces from static manipulatio
 ## Cross-References
 
 ### Core UI Design Documents
-- [`SG_Sacred_Technology_Framework.md`](./SG_Sacred_Technology_Framework.md) - Sacred interface design principles
-- [`SG_Visual_Language_and_Achievement_System.md`](./SG_Visual_Language_and_Achievement_System.md) - Symbolic visual communication
-- [`SG_Anti_Dopamine_Design_Framework.md`](./SG_Anti_Dopamine_Design_Framework.md) - Ethical interaction design
-- [`SG_Accessibility_Standards.md`](./SG_Accessibility_Standards.md) - Inclusive design requirements
+- [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Sacred interface design principles
+- [`sg_creative_dopamine_guide`](../philosophy/sg_creative_dopamine_guide.md) - Ethical interaction design
+- [`sg_accessibility_standards`](./sg_accessibility_standards.md) - Inclusive design requirements
 
 ### Supporting Philosophy Frameworks
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Fulfillment-first design approach
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - User agency in interface design
-- [`SG_Consciousness_Mechanics.md`](./SG_Consciousness_Mechanics.md) - Consciousness-responsive interface theory
-- [`SG_Resonance_Math.md`](./SG_Resonance_Math.md) - Mathematical foundations for interface harmony
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Fulfillment-first design approach
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Self-determination in accessibility needs
 
 ### Implementation System Integration
-- [`SG_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional state tracking for UI adaptation
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion interface integration
-- [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - Backend data serving UI adaptation
-- [`SG_Chamber_Architecture.md`](./SG_Chamber_Architecture.md) - Social interface design principles
-
-### User Experience Journey Documents
-- [`SG_Resonance_Onboarding_Translation.md`](./SG_Resonance_Onboarding_Translation.md) - First-experience interface design
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Ceremonial interface patterns
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Community interface design ethics
+- [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
 
 ---
 
