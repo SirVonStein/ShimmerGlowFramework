@@ -372,16 +372,14 @@ SOVEREIGNTY_METRICS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Agency and sovereignty philosophy foundation
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Comprehensive sovereignty mechanics
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Agency as core gameplay element
-- [`SG_Sacred_Technology.md`](./SG_Sacred_Technology.md) - Sacred friction and ceremonial choice
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Self-determination in accessibility needs
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Sovereignty-first approach applied to accessibility
+- [`sg_sacred_technology_framework`](../philosophy/sg_sacred_technology.md) - Sacred tech accessible to all bodies
 
 ### Implementation Systems
-- [`SG_Creative_Dopamine_Design_Guide.md`](./SG_Creative_Dopamine_Design_Guide.md) - Sacred friction in choice mechanics
-- [`SG_ShimmerGlow_UIUX_Principles.md`](./SG_ShimmerGlow_UIUX_Principles.md) - UI choice pattern implementation
-- [`SG_Rhythm_Tempo_Philosophy.md`](./SG_Rhythm_Tempo_Philosophy.md) - Choice pacing and breathing alignment
-- [`SG_Living_Systems.md`](./SG_Living_Systems.md) - Organic choice evolution and adaptation
+- [`sg_creative_dopamine_guide`](../philosophy/sg_creative_dopamine_guide.md) - Ethical design protecting vulnerable users
+- [`sg_rhythm_tempo`](./sg_rhythm_tempo.md) - Choice pacing and breathing alignment
+- [`sg_living_systems.md`](../philosophy/sg_living_systems.md) - Organic choice evolution and adaptation
 
 ### Feature Integration
 - [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI choice interaction protocols
@@ -390,10 +388,7 @@ SOVEREIGNTY_METRICS = {
 - [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Choice-based reward systems
 
 ### Supporting Frameworks
-- [`SG_Resonance_Onboarding_Translation.md`](./SG_Resonance_Onboarding_Translation.md) - First choice design patterns
-- [`SG_Performance_Metrics.md`](./SG_Performance_Metrics.md) - Choice effectiveness measurement
-- [`SG_Accessibility_Standards.md`](./SG_Accessibility_Standards.md) - Inclusive choice design
-- [`SG_Narrative_Engine.md`](./SG_Narrative_Engine.md) - Choice-driven story development
+- [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
 ---
 
