@@ -225,27 +225,16 @@ SACRED_CONSTANTS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Sacred as foundational principle
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Sacred fulfillment through technology
-- [`SG_Living_System_Philosophy.md`](./SG_Living_System_Philosophy.md) - Breathing sacred life into systems
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Sacred autonomy and choice
+- [`sg_fulfillment_philosophy`](./sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_living_systems`](./sg_living_systems.md) - Breathing sacred life into systems
+- [`sg_user_sovereignty`](./sg_user_sovereignty.md) - Autonomy preservation during growth
 
 ### Sacred Implementation Systems
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Core ritual mechanics and ceremonies
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI as sacred guide and witness
-- [`SG_Creative_Dopamine_Design_Guide.md`](./SG_Creative_Dopamine_Design_Guide.md) - Sacred friction for healthy engagement
-- [`SG_Performance_Metrics.md`](./SG_Performance_Metrics.md) - Sacred performance philosophy
-
-### Sacred Feature Integration
-- [`SG_Achievement_Visual_Language.md`](./SG_Achievement_Visual_Language.md) - Sacred recognition ceremonies
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Chambers as digital temples
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Sacred naming ceremonies
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Sacred value exchange
+- [`sg_anti_dopamine_design`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
 
 ### Sacred User Journey
-- [`SG_Resonance_Onboarding_Translation.md`](./SG_Resonance_Onboarding_Translation.md) - Digital initiation experience
-- [`SG_Cathedral_Thread_Framework.md`](./SG_Cathedral_Thread_Framework.md) - Mind as sacred space
-- [`SG_Consciousness_Mechanics.md`](./SG_Consciousness_Mechanics.md) - Sacred consciousness technology
+- [`sg_privacy_architecture`](../design/sg_privacy_architecture.md) - Accessibility preference privacy protection
+- [`sg_learn_ShimmerGlow`](../reference/sg_learn_shimmerglow.md) - New member education and integration
 
 ---
 
