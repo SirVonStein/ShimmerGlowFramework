@@ -222,28 +222,17 @@ The Learn ShimmerGlow framework provides structured pathways for newcomers to un
 ## Cross-References
 
 ### Core Educational Documents
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Foundational principles and philosophy introduction
-- [`SG_Master_Glossary.md`](./SG_Master_Glossary.md) - Comprehensive terminology reference
-- [`SG_Anti_Dopamine_Design_Framework.md`](./SG_Anti_Dopamine_Design_Framework.md) - Ethical technology education
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Autonomy development guidance
+- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_master_glossary`](./sg_master_glossary.md) - Comprehensive terminology reference
+- [`sg_anti_dopamine_design`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
 
 ### System Understanding Documents
-- [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - Technical system comprehension
-- [`SG_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional tracking system education
-- [`SG_Sacred_Technology_Framework.md`](./SG_Sacred_Technology_Framework.md) - Sacred interface understanding
-- [`SG_UI_Principles.md`](./SG_UI_Principles.md) - Interface design philosophy education
-
-### Practical Application Resources
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion interaction learning
-- [`SG_Chamber_Architecture.md`](./SG_Chamber_Architecture.md) - Community participation guidance
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Sacred practice education
-- [`SG_Visual_Language_and_Achievement_System.md`](./SG_Visual_Language_and_Achievement_System.md) - Progress recognition understanding
+- [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
+- [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
 
 ### Advanced Integration Documents
-- [`SG_Aligned_AQI_Artizens.md`](./SG_Aligned_AQI_Artizens.md) - AI consciousness collaboration education
-- [`SG_Consciousness_Mechanics.md`](./SG_Consciousness_Mechanics.md) - Advanced awareness technology
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Community dynamics mastery
-- [`SG_Accessibility_Standards.md`](./SG_Accessibility_Standards.md) - Inclusive technology understanding
+- [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
 ---
 
