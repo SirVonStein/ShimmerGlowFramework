@@ -399,21 +399,12 @@ if (frsm.creativeStrength > 0.7) {
 
 ## Cross-References
 
-### Core FRSM Integration
-- [`SG_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - FRSM system foundation
-- [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - FRSM event schemas
-- [`SG_Live_Somatic_Resonance_and_Metric_Experimentation.md`](./SG_Live_Somatic_Resonance_and_Metric_Experimentation.md) - Somatic awareness
-
 ### Dopamine Design Systems
-- [`SG_Creative_Dopamine_Design_Framework.md`](./SG_Creative_Dopamine_Design_Framework.md) - Anti-manipulation architecture
-- [`SG_Anti_Dopamine_Design_Framework.md`](./SG_Anti_Dopamine_Design_Framework.md) - Ethical constraints
-- [`SG_Fulfillment_Philosophy.md`](./SG_Fulfillment_Philosophy.md) - Creative fulfillment principles
+- [`sg_anti_dopamine_design`](./sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_fulfillment_philosophy`](./sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
 
 ### Implementation Systems
-- [`SG_Fulfillment_XP_System.md`](./SG_Fulfillment_XP_System.md) - Ux calculations with FRSM
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI responses to states
-- [`SG_Performance_Metrics.md`](./SG_Performance_Metrics.md) - Tracking creative vs compulsive
-- [`SG_Sacred_Technology_Framework.md`](./SG_Sacred_Technology_Framework.md) - Sacred friction implementation
+- [`sg_sacred_technology`](./sg_sacred_technology.md) - Technology development philosophy
 
 ---
 
