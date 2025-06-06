@@ -221,7 +221,7 @@ The ShimmerGlow Action Plan establishes the strategic implementation roadmap for
 - [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
 
 ### Implementation System Documents
-- [`sg_features_compendium`](../framework/sg_features_compendium) - Technical development roadmap
+- [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
 - [`sg_privacy_architecture`](../framework/sg_privacy_architecture.md) - User data sovereignty protection
 - [`sg_learn_ShimmerGlow`](./sg_learn_shimmerglow.md) - New member education and integration
 
