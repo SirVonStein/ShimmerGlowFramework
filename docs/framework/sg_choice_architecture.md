@@ -379,13 +379,7 @@ SOVEREIGNTY_METRICS = {
 ### Implementation Systems
 - [`sg_creative_dopamine_guide`](../philosophy/sg_creative_dopamine_guide.md) - Ethical design protecting vulnerable users
 - [`sg_rhythm_tempo`](./sg_rhythm_tempo.md) - Choice pacing and breathing alignment
-- [`sg_living_systems.md`](../philosophy/sg_living_systems.md) - Organic choice evolution and adaptation
-
-### Feature Integration
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - AI choice interaction protocols
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Ritual selection framework
-- [`SG_Avatar_Evolution_System.md`](./SG_Avatar_Evolution_System.md) - Customization choice architecture
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Choice-based reward systems
+- [`sg_living_systems`](../philosophy/sg_living_systems.md) - Organic choice evolution and adaptation
 
 ### Supporting Frameworks
 - [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
