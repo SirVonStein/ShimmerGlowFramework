@@ -499,7 +499,6 @@ PRIVACY_ACHIEVEMENTS = {
 
 ### Supporting Frameworks
 - [`sg_accessibility_standards`](./sg_accessibility_standards.md) - Inclusive development requirements
-
 - [`sg_living_systems`](../philosophy/sg_living_systems.md) - Organic privacy evolution
 - [`sg_narrative_engine`](../framework/sg_narrative_engine.md) - Privacy as heroic journey element
 
