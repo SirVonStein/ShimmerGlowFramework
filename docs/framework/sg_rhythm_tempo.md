@@ -407,28 +407,18 @@ SEASONAL_PATTERNS = {
 ## Cross-References
 
 ### Core Philosophy Documents
-- [`SG_Gem_Extract.md`](./SG_Gem_Extract.md) - Anti-urgency philosophy and sacred friction principles
-- [`SG_Creative_Dopamine_Design_Guide.md`](./SG_Creative_Dopamine_Design_Guide.md) - Sacred friction mechanics
-- [`SG_User_Sovereignty_Framework.md`](./SG_User_Sovereignty_Framework.md) - Temporal sovereignty and pace autonomy
-- [`SG_Sacred_Technology.md`](./SG_Sacred_Technology.md) - Breathing rhythms and ceremonial timing
+- [`sg_anti_dopamine_design`](../philosophy/sg_creative_dopamine_guide.md) - Ethical growth principles
+- [`sg_user_sovereignty`](../philosophy/sg_user_sovereignty.md) - Autonomy preservation during growth
+- [`sg_sacred_technology`](../philosophy/sg_sacred_technology.md) - Technology development philosophy
 
 ### Implementation Systems
-- [`SG_Choice_Architecture.md`](./SG_Choice_Architecture.md) - Sacred friction in choice presentation
-- [`SG_Living_Systems.md`](./SG_Living_Systems.md) - Organic rhythm evolution and breathing interfaces
-- [`SG_Performance_Metrics.md`](./SG_Performance_Metrics.md) - Rhythm-based performance measurement
-- [`SG_ShimmerGlow_UIUX_Principles.md`](./SG_ShimmerGlow_UIUX_Principles.md) - Interaction timing specifications
-
-### Feature Integration
-- [`SG_AI_Companion_Complete_System.md`](./SG_AI_Companion_Complete_System.md) - EchoMon sleep cycles and temporal awareness
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Ritual timing and natural practice rhythms
-- [`SG_Economy_Progression_System.md`](./SG_Economy_Progression_System.md) - Rest rewards and temporal currency
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Collective rhythm and community temporal patterns
+- [`sg_choice_architecture`](./sg_choice_architecture.md) - Narrative choice design patterns
+- [`sg_living_systems`](../philosophy/sg_living_systems.md) - Organic story growth and evolution
+- [`sg_ui_principles`](../design/sg_ui_principles.md) - Interaction timing specifications
 
 ### Supporting Frameworks
-- [`SG_Session_Thread_Indexing_System.md`](./SG_Session_Thread_Indexing_System.md) - Session flow tracking
-- [`SG_Live_Somatic_Resonance_Experimentation.md`](./SG_Live_Somatic_Resonance_Experimentation.md) - Biometric rhythm integration
-- [`SG_Privacy_Architecture.md`](./SG_Privacy_Architecture.md) - Temporal data privacy protection
-- [`SG_Accessibility_Standards.md`](./SG_Accessibility_Standards.md) - Inclusive rhythm and timing design
+- [`sg_privacy_architecture`](../design/sg_privacy_architecture.md) - Accessibility preference privacy protection
+- [`sg_accessibility_standards`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
 ---
 
