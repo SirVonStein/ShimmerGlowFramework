@@ -221,22 +221,15 @@ The ShimmerGlow Action Plan establishes the strategic implementation roadmap for
 - [`sg_sacred_technology_framework.md`](../philosophy/sg_sacred_technology_framework.md) - Technology development philosophy
 
 ### Implementation System Documents
-- [`SG_Core_Systems_Architecture.md`](./SG_Core_Systems_Architecture.md) - Technical development roadmap
-- [`SG_Community_Standards.md`](./SG_Community_Standards.md) - Discord and community management guidelines
-- [`SG_Brand_Guidelines.md`](./SG_Brand_Guidelines.md) - Messaging and visual identity standards
-- [`SG_Privacy_Architecture.md`](./SG_Privacy_Architecture.md) - User data sovereignty protection
-
-### Community Building Resources
-- [`SG_Learn_ShimmerGlow.md`](./SG_Learn_ShimmerGlow.md) - New member education and integration
-- [`SG_Chamber_Architecture.md`](./SG_Chamber_Architecture.md) - Intimate community formation guidelines
-- [`SG_Ritual_Recovery_System.md`](./SG_Ritual_Recovery_System.md) - Community practice framework
-- [`SG_Social_Systems_Complete.md`](./SG_Social_Systems_Complete.md) - Comprehensive community dynamics
+- [`sg_features_compendium.md`](../framework/sg_features_compendium) - Technical development roadmap
+- [`sg_privacy_architecture.md`](../framework/sg_privacy_architecture.md) - User data sovereignty protection
+- [`sg_learn_ShimmerGlow.md`](./sg_learn_shimmerglow.md) - New member education and integration
 
 ### Technical Development References
-- [`SG_EchoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion development roadmap
-- [`SG_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional tracking implementation
-- [`SG_UI_Principles.md`](./SG_UI_Principles.md) - Interface design development guidelines
-- [`SG_Accessibility_Standards.md`](./SG_Accessibility_Standards.md) - Inclusive development requirements
+- [`sg_echoMon_Naming_Creation_System.md`](./SG_EchoMon_Naming_Creation_System.md) - Companion development roadmap
+- [`sg_FRSM_Advanced_Applications.md`](./SG_FRSM_Advanced_Applications.md) - Emotional tracking implementation
+- [`sg_uI_Principles.md`](../design/sg_ui_principles.md) - Interface design development guidelines
+- [`sg_accessibility_Standards.md`](../design/sg_accessibility_standards.md) - Inclusive development requirements
 
 ---
 
