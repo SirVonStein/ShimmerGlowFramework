@@ -207,12 +207,12 @@ The comprehensive framework defining how ShimmerGlow honors and amplifies user a
 
 ## Cross-References
 
-- [`sg_fulfillment_philosophy`](../philosophy/sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
+- [`sg_fulfillment_philosophy`](./sg_fulfillment_philosophy.md) - Core philosophy guiding all strategic decisions
 
 ### Implementation System Documents
 - [`sg_features_compendium`](../framework/sg_features_compendium.md) - Technical development roadmap
 - [`sg_privacy_architecture`](../design/sg_privacy_architecture.md) - Accessibility preference privacy protection
-- [`sg_learn_ShimmerGlow`](./sg_learn_shimmerglow.md) - New member education and integration
+- [`sg_learn_ShimmerGlow`](../reference/sg_learn_shimmerglow.md) - New member education and integration
 
 ---
 
