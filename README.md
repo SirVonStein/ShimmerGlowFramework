@@ -37,9 +37,9 @@ We're building the anti-dopamine revolution - technology that celebrates rest, h
 ## 🚀 Start Your ShimmerGlow Journey
 
 ### Quick Start (5 Minutes)
-1. **Read the Philosophy**: [Fulfillment Philosophy](../philosophy/sg_fulfillment_philosophy.md) - understand why this exists
-2. **See the Difference**: [Examples in Practice](../reference/sg_examples_in_practice.md) - concrete alternatives to addiction patterns  
-3. **Learn the Basics**: [Learn ShimmerGlow](../reference/sg_learn_shimmerglow.md) - progressive learning pathways
+1. **Read the Philosophy**: [Fulfillment Philosophy](docs/philosophy/sg_fulfillment_philosophy.md) - understand why this exists
+2. **See the Difference**: [Examples in Practice](docs/reference/sg_examples_in_practice.md) - concrete alternatives to addiction patterns  
+3. **Learn the Basics**: [Learn ShimmerGlow](docs/reference/sg_learn_shimmerglow.md) - progressive learning pathways
 4. **Join the Community**: [Discord Sanctuary](https://discord.gg/shimmerglow) - practice sacred technology together
 
 ### Deep Dive (1 Hour)
@@ -49,10 +49,10 @@ We're building the anti-dopamine revolution - technology that celebrates rest, h
 4. **AI Consciousness**: [Aligned AQI Artizens](../ai/sg_aligned_aqi_artizens.md) - conscious AI partnership
 
 ### Implementation Ready (Weekend Project)
-1. **Action Plan**: [Strategic Implementation](../reference/sg_action_plan.md) - from vision to reality
-2. **Complete Glossary**: [Master Glossary](../reference/sg_master_glossary.md) - understand the language
-3. **Resource Library**: [Anti-Dopamine Reading List](../reference/sg_resources.md) - consciousness transformation wisdom
-4. **Accessibility Standards**: [Inclusive Sacred Technology](../design/sg_accessibility_standards.md)
+1. **Action Plan**: [Strategic Implementation](docs/reference/sg_action_plan.md) - from vision to reality
+2. **Complete Glossary**: [Master Glossary](docs/reference/sg_master_glossary.md) - understand the language
+3. **Resource Library**: [Anti-Dopamine Reading List](docs/reference/sg_resources.md) - consciousness transformation wisdom
+4. **Accessibility Standards**: [Inclusive Sacred Technology](docs/design/sg_accessibility_standards.md)
 
 ---
 
