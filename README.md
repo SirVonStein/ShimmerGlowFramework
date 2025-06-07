@@ -43,10 +43,10 @@ We're building the anti-dopamine revolution - technology that celebrates rest, h
 4. **Join the Community**: [Discord Sanctuary](https://discord.gg/shimmerglow) - practice sacred technology together
 
 ### Deep Dive (1 Hour)
-1. **Core Manifesto**: [Anti-Dopamine Design Framework](../design/sg_anti_dopamine_design_framework.md)
-2. **Technical Foundation**: [Core Systems Architecture](../technical/sg_core_systems_architecture.md)
-3. **Sacred Interface**: [UI Principles](../design/sg_ui_principles.md) - living, breathing design
-4. **AI Consciousness**: [Aligned AQI Artizens](../ai/sg_aligned_aqi_artizens.md) - conscious AI partnership
+1. **Core Manifesto**: [Anti-Dopamine Design Framework](docs/design/sg_creative_dopamine_guide.md)
+2. **Technical Foundation**: [Core Systems Architecture](docs/technical/sg_core_systems_architecture.md)
+3. **Sacred Interface**: [UI Principles](docs/design/sg_ui_principles.md) - living, breathing design
+4. **AI Consciousness**: [Aligned AQI Artizens](docs/ai/sg_aligned_aqi_artizens.md) - conscious AI partnership
 
 ### Implementation Ready (Weekend Project)
 1. **Action Plan**: [Strategic Implementation](docs/reference/sg_action_plan.md) - from vision to reality
@@ -60,7 +60,7 @@ We're building the anti-dopamine revolution - technology that celebrates rest, h
 
 🌟 **[Discord Sanctuary](https://discord.gg/shimmerglow)** - Practice sacred technology in community  
 📖 **[Complete Documentation](docs/)** - Dive deep into the framework  
-🔮 **[Strategic Vision](../reference/sg_action_plan.md)** - The roadmap to consciousness economy  
+🔮 **[Strategic Vision](docs/reference/sg_action_plan.md)** - The roadmap to consciousness economy  
 🧵 **[GitHub Discussions](https://github.com/SirVonStein/ShimmerGlowFramework/discussions)** - Contribute to the evolution  
 
 ---
